@@ -1,0 +1,63 @@
+/*
+ * gpioTest_cpu1.c
+ *
+ * This application programs CPU1 to check for
+ * the shared memory flag set by CPU0. If the flag is
+ * set to '1', then CPU1 shall write the value of two
+ * board switches to shared memory, read back the value
+ * of CPU0's switches from shared memory, and set its
+ * LEDs accordingly.
+ */
+
+#include <stdio.h>
+#include "platform.h"
+#include "xil_printf.h"
+#include "xparameters.h"
+#include "xgpio.h"
+#include "sleep.h"
+#include "xil_cache.h"
+
+/***********************************************************/
+#define SHAREDMEM_FLAG       0x3000001
+#define SHAREDMEM_CPU0_DATA  0x3000010
+#define SHAREDMEM_CPU1_DATA  0x3000100
+#define GPIO_1_DEVICEID      XPAR_AXI_GPIO_1_DEVICE_ID
+
+/***********************************************************/
+uint8_t getMemFlag(uint32_t* flagAddr);
+void    setMemFlag(uint32_t* flagAddr, uint8_t flagValue);
+
+/***********************************************************/
+
+int main()
+{
+    init_platform();
+    usleep(500000);
+    print("\n\rCPU1 initialized!!!\n\r");
+
+    // Define variables
+	XGpio XGpio_cpu0;
+	int   sw_value;
+	int   cpu1_sw_value;
+	int   sharedMem_status;
+
+	// Setup GPIO 1
+	XGpio_Initialize(&XGpio_cpu1, GPIO_1_DEVICEID);
+	XGpio_SetDataDirection(&XGpio_cpu1, 1, 0xFFFFFFF);
+	XGpio_SetDataDirection(&XGpio_cpu1, 2, 0x0);
+
+    cleanup_platform();
+    return 0;
+}
+
+uint8_t getMemFlag(uint32_t* flagAddr)
+{
+	Xil_DCacheInvalidateRange((uint32_t)flagAddr, 1);
+	return *flagAddr;
+}
+
+void setMemFlag(uint32_t* flagAddr, uint8_t flagValue)
+{
+	*flagAddr = flagValue;
+	Xil_DCacheFlushRange((uint32_t)flagAddr, 1);
+}

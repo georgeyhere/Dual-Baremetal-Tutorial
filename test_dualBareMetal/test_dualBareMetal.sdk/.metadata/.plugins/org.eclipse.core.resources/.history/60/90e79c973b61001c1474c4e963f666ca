@@ -1,0 +1,30 @@
+/*
+ * gpioTest_cpu1.c
+ *
+ * This application programs CPU1 to check for
+ * the shared memory flag set by CPU0. If the flag is
+ * set to '1', then CPU1 shall write the value of two
+ * board switches to shared memory, read back the value
+ * of CPU0's switches from shared memory, and set its
+ * LEDs accordingly.
+ */
+
+#include <stdio.h>
+#include "platform.h"
+#include "xil_printf.h"
+#include "xparameters.h"
+#include "xgpio.h"
+#include "sleep.h"
+#include "xil_cache.h"
+
+
+
+int main()
+{
+    init_platform();
+
+    print("\n\rCPU1 initialized!!!\n\r");
+
+    cleanup_platform();
+    return 0;
+}

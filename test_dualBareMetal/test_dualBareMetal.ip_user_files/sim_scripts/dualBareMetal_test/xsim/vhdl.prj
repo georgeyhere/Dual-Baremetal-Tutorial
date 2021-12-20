@@ -1,0 +1,6 @@
+vhdl xil_defaultlib  \
+"../../../bd/dualBareMetal_test/ip/dualBareMetal_test_rst_ps7_0_50M_0/sim/dualBareMetal_test_rst_ps7_0_50M_0.vhd" \
+"../../../bd/dualBareMetal_test/ip/dualBareMetal_test_axi_gpio_0_1/sim/dualBareMetal_test_axi_gpio_0_1.vhd" \
+"../../../bd/dualBareMetal_test/ip/dualBareMetal_test_axi_gpio_1_1/sim/dualBareMetal_test_axi_gpio_1_1.vhd" \
+
+nosort

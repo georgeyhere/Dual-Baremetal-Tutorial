@@ -1,0 +1,1897 @@
+17:59:31 **** Build of project gpioTest_cpu0_bsp ****
+make -k all 
+Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_0/src
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_9/src
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_5/src
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_0/src
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_6/src
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_7/src
+make -C ps7_cortexa9_0/libsrc/sdps_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_4/src
+make -C ps7_cortexa9_0/libsrc/gpio_v4_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling ddrps
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling dmaps
+Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling cpu_cortexa9
+Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_0/src
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling scugic
+Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_9/src
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling emacps
+Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_5/src
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling gpiops
+Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_0/src
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling standalone
+In file included from xtime_l.c:49:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from usleep.c:56:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_6/src
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling qspips
+Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling xadcps
+Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_7/src
+make -C ps7_cortexa9_0/libsrc/sdps_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling sdps
+Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling devcfg
+Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling scuwdt
+Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_4/src
+make -C ps7_cortexa9_0/libsrc/gpio_v4_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling gpio
+Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling uartps
+Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling usbps
+Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling scutimer
+Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling coresightps_dcc
+Finished building libraries
+17:59:47 **** Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/helloworld.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+Finished building: ../src/helloworld.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+17:59:48 **** Build of project gpioTest_cpu1_bsp ****
+make -k all 
+Running Make include in ps7_cortexa9_1/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_1/libsrc/ddrps_v1_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/dmaps_v2_4/src
+make -C ps7_cortexa9_1/libsrc/dmaps_v2_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_7/src
+make -C ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/scugic_v4_0/src
+make -C ps7_cortexa9_1/libsrc/scugic_v4_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/emacps_v3_9/src
+make -C ps7_cortexa9_1/libsrc/emacps_v3_9/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/gpiops_v3_5/src
+make -C ps7_cortexa9_1/libsrc/gpiops_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/standalone_v7_0/src
+make -C ps7_cortexa9_1/libsrc/standalone_v7_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/qspips_v3_6/src
+make -C ps7_cortexa9_1/libsrc/qspips_v3_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/xadcps_v2_3/src
+make -C ps7_cortexa9_1/libsrc/xadcps_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/sdps_v3_7/src
+make -C ps7_cortexa9_1/libsrc/sdps_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_1/libsrc/devcfg_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_1/libsrc/scuwdt_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/gpio_v4_4/src
+make -C ps7_cortexa9_1/libsrc/gpio_v4_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/uartps_v3_7/src
+make -C ps7_cortexa9_1/libsrc/uartps_v3_7/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_1/libsrc/usbps_v2_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_1/libsrc/scutimer_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make include in ps7_cortexa9_1/libsrc/coresightps_dcc_v1_5/src
+make -C ps7_cortexa9_1/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Running Make libs in ps7_cortexa9_1/libsrc/ddrps_v1_0/src
+make -C ps7_cortexa9_1/libsrc/ddrps_v1_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling ddrps
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+Running Make libs in ps7_cortexa9_1/libsrc/dmaps_v2_4/src
+make -C ps7_cortexa9_1/libsrc/dmaps_v2_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling dmaps
+Running Make libs in ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_7/src
+make -C ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling cpu_cortexa9
+Running Make libs in ps7_cortexa9_1/libsrc/scugic_v4_0/src
+make -C ps7_cortexa9_1/libsrc/scugic_v4_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling scugic
+Running Make libs in ps7_cortexa9_1/libsrc/emacps_v3_9/src
+make -C ps7_cortexa9_1/libsrc/emacps_v3_9/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling emacps
+Running Make libs in ps7_cortexa9_1/libsrc/gpiops_v3_5/src
+make -C ps7_cortexa9_1/libsrc/gpiops_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling gpiops
+Running Make libs in ps7_cortexa9_1/libsrc/standalone_v7_0/src
+make -C ps7_cortexa9_1/libsrc/standalone_v7_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling standalone
+In file included from xtime_l.c:49:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from usleep.c:56:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+Running Make libs in ps7_cortexa9_1/libsrc/qspips_v3_6/src
+make -C ps7_cortexa9_1/libsrc/qspips_v3_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling qspips
+Running Make libs in ps7_cortexa9_1/libsrc/xadcps_v2_3/src
+make -C ps7_cortexa9_1/libsrc/xadcps_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling xadcps
+Running Make libs in ps7_cortexa9_1/libsrc/sdps_v3_7/src
+make -C ps7_cortexa9_1/libsrc/sdps_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling sdps
+Running Make libs in ps7_cortexa9_1/libsrc/devcfg_v3_5/src
+make -C ps7_cortexa9_1/libsrc/devcfg_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling devcfg
+Running Make libs in ps7_cortexa9_1/libsrc/scuwdt_v2_1/src
+make -C ps7_cortexa9_1/libsrc/scuwdt_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling scuwdt
+Running Make libs in ps7_cortexa9_1/libsrc/gpio_v4_4/src
+make -C ps7_cortexa9_1/libsrc/gpio_v4_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling gpio
+Running Make libs in ps7_cortexa9_1/libsrc/uartps_v3_7/src
+make -C ps7_cortexa9_1/libsrc/uartps_v3_7/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling uartps
+Running Make libs in ps7_cortexa9_1/libsrc/usbps_v2_4/src
+make -C ps7_cortexa9_1/libsrc/usbps_v2_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling usbps
+Running Make libs in ps7_cortexa9_1/libsrc/scutimer_v2_1/src
+make -C ps7_cortexa9_1/libsrc/scutimer_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling scutimer
+Running Make libs in ps7_cortexa9_1/libsrc/coresightps_dcc_v1_5/src
+make -C ps7_cortexa9_1/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+Compiling coresightps_dcc
+Finished building libraries
+18:00:02 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:00:02 **** Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/helloworld.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+Finished building: ../src/helloworld.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19024	   1144	  22568	  42736	   a6f0	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:00:03 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:00:23 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:00:36 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19024	   1144	  22568	  42736	   a6f0	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:00:59 **** Clean-only build of configuration Debug for project gpioTest_cpu0 ****
+make clean 
+rm -rf  ./src/helloworld.o ./src/platform.o  ./src/helloworld.d ./src/platform.d  gpioTest_cpu0.elf.size  gpioTest_cpu0.elf
+ 
+18:00:59 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:02:05 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:02:20 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19072	   1144	  22568	  42784	   a720	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:02:25 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19072	   1144	  22568	  42784	   a720	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:02:33 **** Incremental Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:02:44 **** Incremental Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:02:59 **** Clean-only build of configuration Debug for project gpioTest_cpu1 ****
+make clean 
+rm -rf  ./src/helloworld.o ./src/platform.o  ./src/helloworld.d ./src/platform.d  gpioTest_cpu1.elf.size  gpioTest_cpu1.elf
+ 
+18:02:59 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building file: ../src/platform.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19024	   1144	  22568	  42736	   a6f0	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:03:23 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19032	   1144	  22568	  42744	   a6f8	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:03:25 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19072	   1144	  22568	  42784	   a720	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:03:28 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19032	   1144	  22568	  42744	   a6f8	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:03:34 **** Incremental Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:04:11 **** Incremental Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:04:11 **** Incremental Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:06:21 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19072	   1144	  22568	  42784	   a720	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:06:44 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19072	   1144	  22568	  42784	   a720	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:07:06 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19072	   1144	  22568	  42784	   a720	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:08:17 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c:43:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ getMemFlag(uint32_t* flagAddr)
+ ^~~~~~~~~~
+../src/gpioTest_cpu0.c:43:1: error: conflicting types for 'getMemFlag'
+../src/gpioTest_cpu0.c:26:9: note: previous declaration of 'getMemFlag' was here
+ uint8_t getMemFlag(uint32_t* flagAddr);
+         ^~~~~~~~~~
+../src/gpioTest_cpu0.c: In function 'getMemFlag':
+../src/gpioTest_cpu0.c:46:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+make: *** [src/gpioTest_cpu0.o] Error 1
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu0.o' failed
+18:08:25 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'getMemFlag':
+../src/gpioTest_cpu0.c:47:1: error: expected expression before '}' token
+ }
+ ^
+../src/gpioTest_cpu0.c:47:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu0.o' failed
+ ^
+make: *** [src/gpioTest_cpu0.o] Error 1
+18:08:30 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22868	   1144	  22568	  46580	   b5f4	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:09:13 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22932	   1144	  22568	  46644	   b634	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:09:46 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:37:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+../src/gpioTest_cpu0.c:36:11: warning: unused variable 'XGpio_cpu0' [-Wunused-variable]
+     XGpio XGpio_cpu0;
+           ^~~~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22940	   1144	  22568	  46652	   b63c	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:09:54 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:37:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+../src/gpioTest_cpu0.c:36:11: warning: unused variable 'XGpio_cpu0' [-Wunused-variable]
+     XGpio XGpio_cpu0;
+           ^~~~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22940	   1144	  22568	  46652	   b63c	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:11:05 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:43:24: warning: unused variable 'sharedMem_data1' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data1;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: unused variable 'sharedMem_data0' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data0;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:41:24: warning: unused variable 'sharedMem_flag' [-Wunused-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:37:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+../src/gpioTest_cpu0.c:36:11: warning: unused variable 'XGpio_cpu0' [-Wunused-variable]
+     XGpio XGpio_cpu0;
+           ^~~~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22940	   1144	  22568	  46652	   b63c	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:11:41 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:44:24: warning: unused variable 'sharedMem_data1' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data1;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: unused variable 'sharedMem_data0' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data0;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: unused variable 'sharedMem_flag' [-Wunused-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24156	   1176	  22584	  47916	   bb2c	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:11:56 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:44:24: warning: unused variable 'sharedMem_data1' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data1;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: unused variable 'sharedMem_data0' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data0;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: unused variable 'sharedMem_flag' [-Wunused-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24172	   1176	  22584	  47932	   bb3c	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:12:09 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:44:24: warning: unused variable 'sharedMem_data1' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data1;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: unused variable 'sharedMem_data0' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data0;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: unused variable 'sharedMem_flag' [-Wunused-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24196	   1176	  22584	  47956	   bb54	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:12:45 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:53:5: error: 'sharedMem_cpu0_data' undeclared (first use in this function); did you mean 'sharedMem_data1'?
+     sharedMem_cpu0_data = (uint32_t*) SHAREDMEM_CPU0_DATA;
+     ^~~~~~~~~~~~~~~~~~~
+     sharedMem_data1
+../src/gpioTest_cpu0.c:53:5: note: each undeclared identifier is reported only once for each function it appears in
+../src/gpioTest_cpu0.c:44:24: warning: unused variable 'sharedMem_data1' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data1;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: unused variable 'sharedMem_data0' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data0;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: variable 'sharedMem_flag' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+make: *** [src/gpioTest_cpu0.o] Error 1
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu0.o' failed
+18:12:54 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:53:5: error: 'sharedMem_cpu0_data' undeclared (first use in this function); did you mean 'sharedMem_data1'?
+     sharedMem_cpu0_data = (uint32_t*) SHAREDMEM_CPU0_DATA;
+     ^~~~~~~~~~~~~~~~~~~
+     sharedMem_data1
+../src/gpioTest_cpu0.c:53:5: note: each undeclared identifier is reported only once for each function it appears in
+../src/gpioTest_cpu0.c:54:5: error: 'sharedMem_cpu1_data' undeclared (first use in this function); did you mean 'sharedMem_data1'?
+     sharedMem_cpu1_data = (uint32_t*) SHAREDMEM_CPU1_DATA;
+     ^~~~~~~~~~~~~~~~~~~
+     sharedMem_data1
+../src/gpioTest_cpu0.c:44:24: warning: unused variable 'sharedMem_data1' [-Wunused-variable]
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu0.o' failed
+     volatile uint32_t* sharedMem_data1;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: unused variable 'sharedMem_data0' [-Wunused-variable]
+     volatile uint32_t* sharedMem_data0;
+                        ^~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: variable 'sharedMem_flag' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+make: *** [src/gpioTest_cpu0.o] Error 1
+18:13:14 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:44:24: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu1_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: variable 'sharedMem_cpu0_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu0_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: variable 'sharedMem_flag' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24228	   1176	  22584	  47988	   bb74	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:13:18 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:44:24: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu1_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: variable 'sharedMem_cpu0_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu0_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:42:24: warning: variable 'sharedMem_flag' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_flag;
+                        ^~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24228	   1176	  22584	  47988	   bb74	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:13:45 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:44:24: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu1_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: variable 'sharedMem_cpu0_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu0_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24244	   1176	  22584	  48004	   bb84	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:14:03 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:58:35: warning: passing argument 1 of 'getMemFlag' makes pointer from integer without a cast [-Wint-conversion]
+     sharedMem_status = getMemFlag((uint32_t)sharedMem_flag);
+                                   ^~~~~~~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:27:30: note: expected 'uint32_t *' {aka 'long unsigned int *'} but argument is of type 'long unsigned int'
+ uint8_t getMemFlag(uint32_t* flagAddr);
+                    ~~~~~~~~~~^~~~~~~~
+../src/gpioTest_cpu0.c:44:24: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu1_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: variable 'sharedMem_cpu0_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu0_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: variable 'sharedMem_status' set but not used [-Wunused-but-set-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24260	   1176	  22584	  48020	   bb94	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:14:10 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:44:24: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu1_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:43:24: warning: variable 'sharedMem_cpu0_data' set but not used [-Wunused-but-set-variable]
+     volatile uint32_t* sharedMem_cpu0_data;
+                        ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:40:11: warning: variable 'sharedMem_status' set but not used [-Wunused-but-set-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24260	   1176	  22584	  48020	   bb94	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:14:34 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:40:11: warning: variable 'sharedMem_status' set but not used [-Wunused-but-set-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24284	   1176	  22584	  48044	   bbac	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:14:52 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:40:11: warning: variable 'sharedMem_status' set but not used [-Wunused-but-set-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24300	   1176	  22584	  48060	   bbbc	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:14:57 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:40:11: warning: variable 'sharedMem_status' set but not used [-Wunused-but-set-variable]
+     int   sharedMem_status;
+           ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24316	   1176	  22584	  48076	   bbcc	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:15:23 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34112	   1576	  23272	  58960	   e650	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:15:27 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: unused variable 'sw_value' [-Wunused-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34116	   1576	  23272	  58964	   e654	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:16:24 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: variable 'sw_value' set but not used [-Wunused-but-set-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34116	   1576	  23272	  58964	   e654	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:18:04 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:39:11: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: variable 'sw_value' set but not used [-Wunused-but-set-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34180	   1576	  23272	  59028	   e694	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:18:24 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:39:11: warning: variable 'cpu1_sw_value' set but not used [-Wunused-but-set-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+../src/gpioTest_cpu0.c:38:11: warning: variable 'sw_value' set but not used [-Wunused-but-set-variable]
+     int   sw_value;
+           ^~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34180	   1576	  23272	  59028	   e694	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:19:30 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+../src/gpioTest_cpu0.c: In function 'main':
+../src/gpioTest_cpu0.c:39:11: warning: variable 'cpu1_sw_value' set but not used [-Wunused-but-set-variable]
+     int   cpu1_sw_value;
+           ^~~~~~~~~~~~~
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34244	   1576	  23272	  59092	   e6d4	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:19:47 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34244	   1576	  23272	  59092	   e6d4	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:20:16 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34276	   1576	  23272	  59124	   e6f4	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:20:29 **** Auto Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu0.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu0.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu0_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/gpioTest_cpu0.d" -MT"src/gpioTest_cpu0.o" -o "src/gpioTest_cpu0.o" "../src/gpioTest_cpu0.c"
+Finished building: ../src/gpioTest_cpu0.c
+ 
+Building target: gpioTest_cpu0.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu0_bsp/ps7_cortexa9_0/lib -o "gpioTest_cpu0.elf"  ./src/gpioTest_cpu0.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu0.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu0.elf  |tee "gpioTest_cpu0.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34468	   1576	  23272	  59316	   e7b4	gpioTest_cpu0.elf
+Finished building: gpioTest_cpu0.elf.size
+ 
+18:21:18 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19032	   1144	  22568	  42744	   a6f8	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:21:51 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:41:8: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+  int   sharedMem_status;
+        ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:40:8: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+  int   cpu1_sw_value;
+        ^~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:39:8: warning: unused variable 'sw_value' [-Wunused-variable]
+  int   sw_value;
+        ^~~~~~~~
+../src/gpioTest_cpu1.c:38:8: warning: unused variable 'XGpio_cpu0' [-Wunused-variable]
+  XGpio XGpio_cpu0;
+        ^~~~~~~~~~
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  22900	   1144	  22568	  46612	   b614	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:22:03 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:42:8: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+  int   sharedMem_status;
+        ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:41:8: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+  int   cpu1_sw_value;
+        ^~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:40:8: warning: unused variable 'sw_value' [-Wunused-variable]
+  int   sw_value;
+        ^~~~~~~~
+../src/gpioTest_cpu1.c:39:8: warning: unused variable 'XGpio_cpu0' [-Wunused-variable]
+  XGpio XGpio_cpu0;
+        ^~~~~~~~~~
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23060	   1144	  22568	  46772	   b6b4	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:22:22 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:45:20: error: 'XGpio_cpu1' undeclared (first use in this function); did you mean 'XGpio_cpu0'?
+  XGpio_Initialize(&XGpio_cpu1, GPIO_1_DEVICEID);
+                    ^~~~~~~~~~
+                    XGpio_cpu0
+../src/gpioTest_cpu1.c:45:20: note: each undeclared identifier is reported only once for each function it appears in
+../src/gpioTest_cpu1.c:42:8: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+  int   sharedMem_status;
+        ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:41:8: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+  int   cpu1_sw_value;
+        ^~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:40:8: warning: unused variable 'sw_value' [-Wunused-variable]
+  int   sw_value;
+        ^~~~~~~~
+../src/gpioTest_cpu1.c:39:8: warning: unused variable 'XGpio_cpu0' [-Wunused-variable]
+  XGpio XGpio_cpu0;
+        ^~~~~~~~~~
+make: *** [src/gpioTest_cpu1.o] Error 1
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu1.o' failed
+18:22:28 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:42:8: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+  int   sharedMem_status;
+        ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:41:8: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+  int   cpu1_sw_value;
+        ^~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:40:8: warning: unused variable 'sw_value' [-Wunused-variable]
+  int   sw_value;
+        ^~~~~~~~
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24316	   1176	  22584	  48076	   bbcc	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:22:40 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:46:21: warning: unused variable 'sharedMem_cpu1_data' [-Wunused-variable]
+  volatile uint32_t* sharedMem_cpu1_data;
+                     ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:45:21: warning: unused variable 'sharedMem_cpu0_data' [-Wunused-variable]
+  volatile uint32_t* sharedMem_cpu0_data;
+                     ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:44:21: warning: unused variable 'sharedMem_flag' [-Wunused-variable]
+  volatile uint32_t* sharedMem_flag;
+                     ^~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:42:8: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+  int   sharedMem_status;
+        ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:41:8: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+  int   cpu1_sw_value;
+        ^~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:40:8: warning: unused variable 'sw_value' [-Wunused-variable]
+  int   sw_value;
+        ^~~~~~~~
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24316	   1176	  22584	  48076	   bbcc	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:22:50 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:46:21: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+  volatile uint32_t* sharedMem_cpu1_data;
+                     ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:45:21: warning: variable 'sharedMem_cpu0_data' set but not used [-Wunused-but-set-variable]
+  volatile uint32_t* sharedMem_cpu0_data;
+                     ^~~~~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:44:21: warning: variable 'sharedMem_flag' set but not used [-Wunused-but-set-variable]
+  volatile uint32_t* sharedMem_flag;
+                     ^~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:42:8: warning: unused variable 'sharedMem_status' [-Wunused-variable]
+  int   sharedMem_status;
+        ^~~~~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:41:8: warning: unused variable 'cpu1_sw_value' [-Wunused-variable]
+  int   cpu1_sw_value;
+        ^~~~~~~~~~~~~
+../src/gpioTest_cpu1.c:40:8: warning: unused variable 'sw_value' [-Wunused-variable]
+  int   sw_value;
+        ^~~~~~~~
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24348	   1176	  22584	  48108	   bbec	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:23:12 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:82:24: error: 'XGpio_cpu0' undeclared (first use in this function); did you mean 'XGpio_cpu1'?
+   XGpio_DiscreteWrite(&XGpio_cpu0, 2, cpu1_sw_value);
+                        ^~~~~~~~~~
+                        XGpio_cpu1
+../src/gpioTest_cpu1.c:82:24: note: each undeclared identifier is reported only once for each function it appears in
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu1.o' failed
+make: *** [src/gpioTest_cpu1.o] Error 1
+18:23:14 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:23:19 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:70:4: error: 'cpu1_sw_value' undeclared (first use in this function); did you mean 'cpu0_sw_value'?
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu1.o' failed
+    cpu1_sw_value = *sharedMem_cpu1_data;
+    ^~~~~~~~~~~~~
+    cpu0_sw_value
+../src/gpioTest_cpu1.c:70:4: note: each undeclared identifier is reported only once for each function it appears in
+../src/gpioTest_cpu1.c:41:8: warning: unused variable 'cpu0_sw_value' [-Wunused-variable]
+  int   cpu0_sw_value;
+        ^~~~~~~~~~~~~
+make: *** [src/gpioTest_cpu1.o] Error 1
+18:23:25 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:71:51: error: 'cpu1_sw_value' undeclared (first use in this function); did you mean 'cpu0_sw_value'?
+    xil_printf("CPU0: CPU1 switch value = %d\n\r", cpu1_sw_value);
+                                                   ^~~~~~~~~~~~~
+                                                   cpu0_sw_value
+../src/gpioTest_cpu1.c:71:51: note: each undeclared identifier is reported only once for each function it appears in
+../src/gpioTest_cpu1.c:41:8: warning: variable 'cpu0_sw_value' set but not used [-Wunused-but-set-variable]
+  int   cpu0_sw_value;
+        ^~~~~~~~~~~~~
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu1.o' failed
+make: *** [src/gpioTest_cpu1.o] Error 1
+18:23:26 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:71:51: error: 'cpu1_sw_value' undeclared (first use in this function); did you mean 'cpu0_sw_value'?
+    xil_printf("CPU0: CPU1 switch value = %d\n\r", cpu1_sw_value);
+                                                   ^~~~~~~~~~~~~
+src/subdir.mk:24: recipe for target 'src/gpioTest_cpu1.o' failed
+                                                   cpu0_sw_value
+../src/gpioTest_cpu1.c:71:51: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/gpioTest_cpu1.o] Error 1
+18:23:28 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:23:32 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:23:39 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:23:42 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:23:55 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:46:21: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+  volatile uint32_t* sharedMem_cpu1_data;
+                     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:24:02 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+../src/gpioTest_cpu1.c: In function 'main':
+../src/gpioTest_cpu1.c:46:21: warning: variable 'sharedMem_cpu1_data' set but not used [-Wunused-but-set-variable]
+  volatile uint32_t* sharedMem_cpu1_data;
+                     ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:24:17 **** Auto Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+Building file: ../src/gpioTest_cpu1.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/gpioTest_cpu1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpioTest_cpu1_bsp/ps7_cortexa9_1/include -MMD -MP -MF"src/gpioTest_cpu1.d" -MT"src/gpioTest_cpu1.o" -o "src/gpioTest_cpu1.o" "../src/gpioTest_cpu1.c"
+Finished building: ../src/gpioTest_cpu1.c
+ 
+Building target: gpioTest_cpu1.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpioTest_cpu1_bsp/ps7_cortexa9_1/lib -o "gpioTest_cpu1.elf"  ./src/gpioTest_cpu1.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: gpioTest_cpu1.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size gpioTest_cpu1.elf  |tee "gpioTest_cpu1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  34300	   1576	  23272	  59148	   e70c	gpioTest_cpu1.elf
+Finished building: gpioTest_cpu1.elf.size
+ 
+18:25:43 **** Incremental Build of configuration Debug for project gpioTest_cpu0 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+18:25:43 **** Incremental Build of configuration Debug for project gpioTest_cpu1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.

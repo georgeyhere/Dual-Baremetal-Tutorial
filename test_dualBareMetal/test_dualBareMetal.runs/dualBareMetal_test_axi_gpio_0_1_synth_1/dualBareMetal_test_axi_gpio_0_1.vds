@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Dec 13 00:14:16 2021
+# Process ID: 26798
+# Current directory: /home/george/Documents/ngcp/repos/NGCP_2021-2022/test_dualBareMetal/test_dualBareMetal.runs/dualBareMetal_test_axi_gpio_0_1_synth_1
+# Command line: vivado -log dualBareMetal_test_axi_gpio_0_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dualBareMetal_test_axi_gpio_0_1.tcl
+# Log file: /home/george/Documents/ngcp/repos/NGCP_2021-2022/test_dualBareMetal/test_dualBareMetal.runs/dualBareMetal_test_axi_gpio_0_1_synth_1/dualBareMetal_test_axi_gpio_0_1.vds
+# Journal file: /home/george/Documents/ngcp/repos/NGCP_2021-2022/test_dualBareMetal/test_dualBareMetal.runs/dualBareMetal_test_axi_gpio_0_1_synth_1/vivado.jou
+#-----------------------------------------------------------
+source dualBareMetal_test_axi_gpio_0_1.tcl -notrace
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP dualBareMetal_test_axi_gpio_0_1, cache-ID = 9252c83ad31c553c.
+INFO: [Common 17-206] Exiting Vivado at Mon Dec 13 00:14:24 2021...
